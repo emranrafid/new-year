@@ -1,0 +1,143 @@
+.header-container {
+    background-image: url("./images/banner/banner3.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    text-align: right;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+
+}
+
+.title {
+    color: #FFF;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.header-text {
+    margin-right: 100px;
+}
+
+.header-desc {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.btn {
+    border-radius: 5px;
+    background: #FFF;
+    padding: 12px 20px;
+    border: 0px;
+    color: #005FAC;
+    text-align: right;
+    font-family: serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.second-section-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+    padding: 100px 100px;
+    height: 100vh;
+}
+
+.secondery-title {
+    color: var(--dark-01, #151414);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.secondery-desc {
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.ul-section {
+    margin-left: -25px;
+}
+
+.sec-img {
+    height: 700px;
+}
+
+.third-title {
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.icon {
+    height: 50px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+
+.info-box {
+    width: 150px;
+    height: 180px;
+    padding: 15px;
+    text-align: center;
+    background-color: white;
+    margin-top: 0px;
+
+}
+
+.box-titel {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.box-desc {
+    margin-top: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    margin-top: 5px;
+    font-weight: 500;
+}
+.all-info-boxs{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.plan-container{
+    align-items: center;
+}
